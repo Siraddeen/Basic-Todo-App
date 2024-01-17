@@ -8,7 +8,7 @@ Todo{
     completed:boolean
 }
 */
-mongoos.connect("mongodb://127.0.0.1:27017/Todo-app");
+mongoos.connect("mongodb://127.0.0.1:27017/Todo-app");  // you may choose your required mongoose id 
 
 const todoSchema = mongoos.Schema({
   title: String,
