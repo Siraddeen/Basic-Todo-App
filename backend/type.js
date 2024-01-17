@@ -1,3 +1,5 @@
+// Validating the todos with ZOD library
+
 const zod = require("zod");
 
 const createTodo = zod.object({
