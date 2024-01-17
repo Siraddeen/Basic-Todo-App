@@ -18,7 +18,7 @@ It has the following features
 
 ## Steps to follow
 
-1) First of clone project to your system & do " npm install " command via your command prompt in the required folder
+1) First of all, clone project to your system & do " npm install " command via your command prompt in the required folder
 2) Now use 2 seperate  terminals for each of back-end & for front-end
 3) For the back-end terminal, use 'node index.js' to start the server
 4) For in, front-end terminal use  npm run dev to start the front_end server
