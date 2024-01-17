@@ -25,7 +25,6 @@ It has the following features
 
 happy coding--------------- This is just a simple preliminary to-do app that lacks a lot of improvements
 
-![Front end
-](https://photos.google.com/photo/AF1QipOy8Batt1DrpkXwT1q0loWPv-Wq7XForpmOAl1q)
-![Back end
-](https://photos.google.com/photo/AF1QipNfY696jn8q_D6rKpn094EFmUW9o6W4G4Nop-Gx)
+
+![Screenshot 2024-01-17 195742](https://github.com/Siraddeen/Basic-Todo-App/assets/85670787/3bff4497-5ce8-44d6-8c75-6ac8e757a5f8)
+![Screenshot 2024-01-17 195844](https://github.com/Siraddeen/Basic-Todo-App/assets/85670787/7ec947c6-50d5-4674-82ac-c811f8142f32)
